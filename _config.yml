@@ -10,8 +10,8 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus 
 
 ### Site Structure
 
-baseurl: "/edition_base" # the subpath of your site
-url: "https://recoveryhub.github.io/" # should not change for Recovery Hub projects
+baseurl: "/BrontePoems" # the subpath of your site
+url: "https://lamontaswarn.github.io/" # should not change for Recovery Hub projects
 
 ### Contact
 
