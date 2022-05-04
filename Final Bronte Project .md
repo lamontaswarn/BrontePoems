@@ -15,15 +15,15 @@ The one thing that caught my eye the most about much of the poems written by Cha
 
 <p align="left">
   <img 
-    width="550"
-    height="500"
+    width="400"
+    height="450"
     src="docs/Bronte2.jpeg">
 </p>
 
 <p align="left">
   <img 
-    width="550"
-    height="500"
+    width="400"
+    height="450"
     src="docs/Bronte3.jpeg">
 </p>
 
