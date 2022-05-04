@@ -24,7 +24,7 @@ The one thing that caught my eye the most about much of the poems written by Cha
   <img 
     width="550"
     height="500"
-    src="docs/Bronte3.png">
+    src="docs/Bronte3.jpeg">
 </p>
 
 
@@ -48,7 +48,7 @@ Another ethical point we must hit is the fact that some of the intimate details 
 
 <p align="left">
   <img 
-    width="550"
+    width="600"
     height="400"
     src="docs/Bronte1.png">
 </p>
