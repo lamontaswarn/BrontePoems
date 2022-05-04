@@ -1,6 +1,8 @@
 # Documentation
 {:.no_toc}
 
+hello
+
 Welcome to the Recovery Hub Edition template. To get started with your own edition click the "Use this template" button above to make a copy on your own GitHub account. To publish, you can enable GitHub Pages by going to your new repository's settings and in the "Pages" tab, choose your branch as the source and save. (Note, your repository must be public!) Github will then display the URL of your new site. 
 
 In order for links to work, you will then need to change your `_config.yml` file (See "editing directly on github" below) ((TODO: add)) with the values of this new URL. 
