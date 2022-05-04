@@ -3,7 +3,7 @@
   <img 
     width="550"
     height="500"
-    src="docs/Bronte1.png"> 
+    src="docs/CharlotteB.jpeg> 
 
  ## By Lamonta Swarn 
 
