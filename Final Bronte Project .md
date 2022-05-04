@@ -3,7 +3,7 @@
   <img 
     width="550"
     height="500"
-    src="https://lamontaswarn.github.io/BrontePoems/docs/CharlotteB.png"> 
+    src="docs/Bronte1.png"> 
 
  ## By Lamonta Swarn 
 
