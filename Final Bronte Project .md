@@ -3,8 +3,9 @@
   <img 
     width="550"
     height="500"
-    src=" https://lamontaswarn.github.io/BrontePoems/docs/CharlotteB.png ">
-## By Lamonta Swarn 
+    src="https://lamontaswarn.github.io/BrontePoems/docs/CharlotteB.png"> 
+
+ ## By Lamonta Swarn 
 
 
 ## Textual History
@@ -16,14 +17,14 @@ The one thing that caught my eye the most about much of the poems written by Cha
   <img 
     width="550"
     height="500"
-    src=" https://lamontaswarn.github.io/BrontePoems/docs/Bronte2.png ">
+    src="https://lamontaswarn.github.io/BrontePoems/docs/Bronte2.png">
 </p>
 
 <p align="left">
   <img 
     width="550"
     height="500"
-    src=" https://lamontaswarn.github.io/BrontePoems/docs/Bronte3.png ">
+    src="https://lamontaswarn.github.io/BrontePoems/docs/Bronte3.png">
 </p>
 
 
@@ -73,7 +74,7 @@ I nought to them and they to me
 But shapes of strange variety.
 The Great with all the elusive shine
 Of power and wealth and lofty line
-I long have marked and well I know. [^fn1];
+I long have marked and well I know. [^1];
 
 # 'Is this my tomb, this humble stone'
 Is this my tomb, this humble stone
@@ -94,7 +95,7 @@ Which, through the shadowy valleys led,
 Winds far, and farther back?
 And was I not a lady once,
 My home a princely hall? 
-Methinks, as in a doubtful dream, [fn2]
+Methinks, as in a doubtful dream, [2]
 That dwelling proud I see
 Where I caught first the early beam
 Of being day's spring face.
@@ -130,7 +131,7 @@ In all that snow-racked sky,
 Though shook the iron-rails around
 As, swept by deepened breeze, 
 They gave a strange and hollow sound
-That living veins might freeze.[fn3]
+That living veins might freeze.[3]
 O was that music like my own? -
 Such as I used to play
 When soft and clear and holy shone
