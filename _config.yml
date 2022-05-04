@@ -86,7 +86,7 @@ defaults:
     values:
       navigation: "true"
   - scope:
-      path: "docs/listing.html"
+      path: "Final Bronte Project .md"
     values:
       navigation: "true"
 
